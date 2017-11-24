@@ -1,6 +1,6 @@
 {
   "name": "nativescript-iqkeyboardmanager",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "nativescript": {
     "platforms": {
       "ios": "3.2.0"
